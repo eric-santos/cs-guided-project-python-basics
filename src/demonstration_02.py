@@ -10,4 +10,8 @@ Examples:
 """
 def convert(minutes):
     # Your code here
+    print(int(minutes * 60))
+
+
+convert(5)
 
